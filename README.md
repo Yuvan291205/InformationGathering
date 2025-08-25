@@ -1,4 +1,4 @@
-<img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/2c314aa6-9afd-4deb-abd0-f8da1575e597" /># Ex-02 InformationGathering
+# Ex-02 InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
